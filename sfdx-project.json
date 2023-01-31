@@ -12,6 +12,7 @@
     "sourceApiVersion": "39.0",
     "packageAliases": {
         "MaheshPckg9Jan": "0Ho5g000000CawBCAS",
-        "MaheshPckg9Jan@1.0.0-1-master": "04t5g000000daAZAAY"
+        "MaheshPckg9Jan@1.0.0-1-master": "04t5g000000daAZAAY",
+        "MaheshPckg9Jan@0.1.0-1-master": "04t5g000000daUIAAY"
     }
 }
